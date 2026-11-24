@@ -13,7 +13,7 @@ extracting and checking genomic DNA from human blood. I'm now bringing more data
 
 ## Projects
 
-- **AMR analysis and visualization** (Python): a command-line tool for *Neisseria gonorrhoeae* antimicrobial
+- **[AMR analysis and visualization](https://github.com/shadhin-ali002/amr-analysis-and-visualization)** (Python): a command-line tool for *Neisseria gonorrhoeae* antimicrobial
   resistance. It summarises MIC workbooks (E-strip vs agar-dilution agreement, QC) and detects mutations in
   30 resistance genes from genome assemblies with BLAST+. Results come out as Excel tables and PDF/HTML reports.
 
