@@ -8,7 +8,7 @@ extracting and checking genomic DNA from human blood. I'm now bringing more data
 
 - 🔬 At **icddr,b**, and doing my **MSc in Biochemistry & Molecular Biology** at Jahangirnagar University
 - 📄 Latest paper: [*Molecular authentication of meat species in processed food products in Bangladesh*](https://doi.org/10.1186/s40550-025-00131-z), *Food Safety and Risk* (2026)
-- 🧬 Interested in: molecular diagnostics, food authenticity, mitochondrial DNA, genomics, antimicrobial resistance
+- 🧬 Interested in: molecular biology and genomics, molecular diagnostics, virology and host-pathogen interactions, molecular immunology, mitochondrial DNA, genomics, antimicrobial resistance, cancer biology and molecular oncology
 - 🌐 Website: **[shadhin-ali002.github.io](https://shadhin-ali002.github.io)**
 
 ## Projects
